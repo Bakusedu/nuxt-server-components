@@ -6,5 +6,5 @@ export default defineNuxtConfig({
     componentIslands: true, // false or 'local+remote'
   },
 
-  modules: ["@nuxt/image", "nuxt-swiper"],
+  modules: ["@nuxt/image"],
 });
